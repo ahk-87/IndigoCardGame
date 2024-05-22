@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Indigo Card Game/task/build/
+/Indigo Card Game/task/out/
+/Indigo Card Game/task/out/production/classes/
